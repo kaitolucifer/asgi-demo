@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+curio = "*"
+trio = "*"
+uvloop = "*"
+aiohttp = "*"
+gevent = "*"
+aiocache = "*"
+hypercorn = "*"
+uvicorn = "*"
+django = "*"
+daphne = "*"
+flask = "*"
+starlette = "*"
+werkzeug = "*"
+aiofiles = "*"
+quart = "*"
+fastapi = "*"
+
+[dev-packages]
+flake8 = "*"
+
+[requires]
+python_version = "3.8"
