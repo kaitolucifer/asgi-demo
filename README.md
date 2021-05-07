@@ -15,5 +15,5 @@
   0. You just DO WHAT THE FUCK YOU WANT TO.
 </pre>
 
-A simple template to start building web application with go.
+Demos about Python WSGI and ASGI app.
 
